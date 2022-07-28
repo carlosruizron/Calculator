@@ -1,0 +1,13 @@
+.calculator {
+    margin-left: 38vw;
+    margin-top: 30vh;
+}
+.button {
+    width: 5vw;
+    height: 5vh;
+}
+.screen {
+    width: 20vw;
+    height: 6vh;
+    margin-bottom: 5vh;
+}
